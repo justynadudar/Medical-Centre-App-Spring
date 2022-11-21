@@ -5,7 +5,7 @@ Implementation technology: Java (version 19) + Spring framework
 
 -------------
 Planned data model: <br /><br />
-![image](https://user-images.githubusercontent.com/62484042/202924751-51249946-2875-46e6-a18b-235ee4cf0efc.png)
+![image](https://user-images.githubusercontent.com/62484042/202971121-5d513f72-acbf-4771-98d6-92d4130b13f2.png)
 -------------
 The program is created on the basis of a local PostgreSQL database, so in order for the application to work properly, you need to create a local database with the properties described in application.properties, namely:
 
